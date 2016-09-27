@@ -24,3 +24,5 @@ If you reveal every button that isn't a bomb, you win!
 You can also "flag" spaces which you think are bombs. Simply click the "Click to flag" button
 and click the spots you think contain a bomb. Now you can keep track of bombs without having to 
 remember!
+
+Known bugs: Ocassionaly a button on the corner is accidentaly set as checked even though it hasn't been, which can sometimes make the game unwinnable.
