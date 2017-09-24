@@ -1,12 +1,5 @@
-___  ____                                                   
-|  \/  (_)                                                  
-| .  . |_ _ __   ___  _____      _____  ___ _ __   ___ _ __ 
-| |\/| | | '_ \ / _ \/ __\ \ /\ / / _ \/ _ \ '_ \ / _ \ '__|
-| |  | | | | | |  __/\__ \\ V  V /  __/  __/ |_) |  __/ |   
-\_|  |_/_|_| |_|\___||___/ \_/\_/ \___|\___| .__/ \___|_|   
-                                           | |              
-                                           |_|              
-By: Evan Wilt
+       
+# Java Minesweeper Clone
 
 Minesweeper is a game in which there is a grid of buttons that you, the player, can click.
 
